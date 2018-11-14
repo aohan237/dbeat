@@ -1,4 +1,5 @@
 # Database-backed Periodic Tasks
+[![Downloads](https://pepy.tech/badge/dbeat)](https://pepy.tech/project/dbeat)
 
 name|value
 -|-
